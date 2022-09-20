@@ -6,7 +6,7 @@ while (i<=num)
 {
     if(i<=num)
     {
-        Console.WriteLine(i + " is even number ");
+        Console.Write(i + " is even number ");
         i=i+2;
     }
 }
